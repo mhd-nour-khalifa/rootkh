@@ -2,10 +2,9 @@
 
 
 
-![Cyber Security](https://lh3.googleusercontent.com/ogw/ADea4I47UCz0MEvOv4LbnEaPTnxKD5T8zzinZdcGE7mKAw=s83-c-mo)
-
  👨‍💻 I’m currently working on web development technologies.
- 📚 I'm interested in cyber security/software
+ 
+ 📚 I'm interested in cyber security/software.
 
 
 
