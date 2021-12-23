@@ -1,6 +1,4 @@
-### Hi there, I'm Mhd Nour Khalifa ![I am GitHub Readme Generator's creator](<a href="https://imgur.com/Twzh5Xx"><img src="https://i.imgur.com/Twzh5Xx.gif" title="source: imgur.com" /></a>)
-
-
+### Hi there, I'm Mhd Nour Khalifa href="https://imgur.com/MHpwPnE"><img src="https://i.imgur.com/MHpwPnE.gif" title="source: imgur.com" /></a>)
 
  👨‍💻 I’m currently working on web development technologies.
  
