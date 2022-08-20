@@ -13,9 +13,9 @@
  
  <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mhd-khalifa-221808211/)](https://www.linkedin.com/in/mhd-khalifa-221808211/)
-  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rootkh1@gmail.com)](mailto:rootkh1@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-mhd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mhd-khalifa-221808211/)](https://www.linkedin.com/in/mhd-khalifa-221808211/)
+  [![Medium Badge](https://img.shields.io/badge/-@mhdnour-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-rootkh1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rootkh1@gmail.com)](mailto:rootkh1@gmail.com)
 </div>
 <br>
  
