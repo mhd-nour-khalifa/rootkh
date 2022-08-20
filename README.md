@@ -1,8 +1,14 @@
-### Hi there, I'm Mhd Nour Khalifa <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">" /></a>
+### Hi there, I'm Mhd Nour Khalifa <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">"</a>
 
  👨‍💻 I’m currently working on web development technologies.
  
  📚 I'm interested in cyber security/software.
+ 
+ <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 
