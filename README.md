@@ -1,4 +1,4 @@
-### Hi there, I'm Mhd Nour Khalifa <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> title="source: imgur.com" /></a>
+### Hi there, I'm Mhd Nour Khalifa <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">" /></a>
 
  👨‍💻 I’m currently working on web development technologies.
  
