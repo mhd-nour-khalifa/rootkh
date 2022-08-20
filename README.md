@@ -8,7 +8,6 @@
 </h1>
 
  👨‍💻 I’m currently working on web development technologies.
- 
  📚 I'm interested in cyber security/software.
  
  <div align="center">
