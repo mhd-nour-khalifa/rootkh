@@ -20,7 +20,12 @@
 
 
 
-
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/ruby.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/rails.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/php.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/go.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/elixir.png"></code>
 
 
 
