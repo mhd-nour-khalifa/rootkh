@@ -1,15 +1,9 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">"</a>
 
 
- 
- 
- 
- 
- 
- 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; Tis+is+Muhammed+Khalifa....;Welcome+to+my+GitHub!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;this+is+Muhammed+Khalifa....;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
 
