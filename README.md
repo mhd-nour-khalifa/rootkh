@@ -1,4 +1,4 @@
-###  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">"</a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">"</a>
 
 
  
@@ -7,10 +7,9 @@
  
  
  
- 
- <h1 align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Muhammed+Khalifa....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hamza+Sallam....;Welcome+to+my+GitHub!&center=true&size=30">
   </a>
 </h1>
 
